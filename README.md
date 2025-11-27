@@ -58,6 +58,7 @@ $ns at 5.0 "finish"
 $ns run
  
 # OUTPUT
+<img width="1352" height="751" alt="515553589-effbee36-8871-4bf2-a57c-e8c435e46eef" src="https://github.com/user-attachments/assets/94120152-3f82-413a-bf05-2765343f24c1" />
 
 
 # RESULT
