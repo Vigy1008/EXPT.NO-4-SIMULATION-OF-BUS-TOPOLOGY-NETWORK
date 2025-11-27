@@ -27,6 +27,8 @@ STEP 17: Stop the program.
 
 # PROGRAM:
 
+```
+
 
 #Create a simulator object set ns [new Simulator] #Open the nam trace file set nf [open out.nam w]
 $ns namtrace-all $nf #Define a 'finish' procedure proc finish {}
@@ -56,6 +58,7 @@ $ns at 4.5 "$cbr0 stop"
 #Call the finish procedure after 5 seconds of simulation time
 $ns at 5.0 "finish"
 $ns run
+```
  
 # OUTPUT
 <img width="1352" height="751" alt="515553589-effbee36-8871-4bf2-a57c-e8c435e46eef" src="https://github.com/user-attachments/assets/94120152-3f82-413a-bf05-2765343f24c1" />
